@@ -110,7 +110,7 @@ Production web application built for a jewelry business — from my portfolio wo
 
 `Full-Stack`
 
-**[↳ View portfolio](https://keen-macaron-e4ca59.netlify.app/)**
+**[↳ View Website](https://kahaanjewels.com/)**
 
 </td>
 <td width="50%" valign="top">
@@ -126,7 +126,7 @@ One of my active builds — see the portfolio for the latest details and links.
 </tr>
 </table>
 
-> ⚠️ **Heads-up on `reverse-shellv1` / `reverse-shell-v2`:** these are labeled educational/ethical-hacking tools on your GitHub. Worth keeping a clear disclaimer directly in those repos' own READMEs too — recruiters and GitHub's own ToS scanners look at that closely.
+
 
 <br>
 
