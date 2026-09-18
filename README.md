@@ -35,14 +35,13 @@ contact:    leuvaromil3@gmail.com
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/romilleuva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF0000" /></a>
+<a href="https://www.linkedin.com/in/romil-leuva-892b82280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF0000" /></a>
 <a href="mailto:leuvaromil3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
 <a href="https://keen-macaron-e4ca59.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=netlify&logoColor=FF0000" /></a>
 <a href="https://studyaura.in/" target="_blank"><img src="https://img.shields.io/badge/EduSparsh-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF0000" /></a>
 
 </div>
 
-> ⚠️ Double-check the LinkedIn badge points to your real handle before publishing.
 
 <br>
 
