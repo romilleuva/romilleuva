@@ -42,7 +42,6 @@ contact:    leuvaromil3@gmail.com
 
 </div>
 
-
 <br>
 
 ## ⚙️ &nbsp;ARSENAL // LANGUAGES & TOOLS
@@ -126,18 +125,45 @@ One of my active builds — see the portfolio for the latest details and links.
 </tr>
 </table>
 
-
-
 <br>
 
 ## 📡 &nbsp;TELEMETRY // GITHUB STATS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=romilleuva&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romilleuva&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&langs_count=8" />
+<a href="https://github.com/romilleuva?tab=followers">
+  <img src="https://img.shields.io/github/followers/romilleuva?label=FOLLOWERS&style=for-the-badge&color=FF0000&labelColor=0D0D0D&logo=github&logoColor=FF0000" />
+</a>
+<a href="https://github.com/romilleuva?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/romilleuva&label=REPOS&query=public_repos&style=for-the-badge&color=FF0000&labelColor=0D0D0D&logo=github&logoColor=FF0000" />
+</a>
+<a href="https://github.com/romilleuva?tab=stars">
+  <img src="https://img.shields.io/github/stars/romilleuva/Crypto-Wallate?label=CRYPTO+WALLATE+%E2%98%85&style=for-the-badge&color=FF0000&labelColor=0D0D0D&logo=github&logoColor=FF0000" />
+</a>
 
 </div>
+
+<details>
+<summary align="center">🔴 Want the full animated stats card too? (click to expand)</summary>
+
+<br>
+
+The classic stats-card widget below is powered by a **free shared public instance** that frequently hits GitHub's API rate limit and stops rendering — that's the blank space you were seeing, not a bug in this file. It may show up, or may not, depending on load:
+
+```md
+<img src="https://github-readme-stats.vercel.app/api?username=romilleuva&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000" />
+```
+
+For a version that **always works**, deploy your own free copy on Vercel (5 minutes, no cost):
+
+1. Go to the [github-readme-stats repo](https://github.com/anuraghazra/github-readme-stats) → **Deploy on Vercel** button in its README
+2. Sign in with GitHub, fork it, add a `PAT_1` environment variable (a personal access token) when prompted
+3. Deploy — you'll get your own URL like `https://github-readme-stats-yourname.vercel.app`
+4. Swap that URL in for `github-readme-stats.vercel.app` in the snippet above
+
+That gives you a private instance with its own rate limit, so it never goes blank.
+
+</details>
 
 <br>
 
